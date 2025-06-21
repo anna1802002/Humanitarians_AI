@@ -1,0 +1,50 @@
+# Ananya Mahesh Shetty
+
+**Position**: AI Agentic Engineer   
+**Email**: [shetty.ana@northeastern.edu](mailto:shetty.ana@northeastern.edu)  
+
+🔗 **[GitHub](https://github.com/anna1802002)** 
+🌐 **[LinkedIn](https://www.linkedin.com/in/ananyashetty18/)**
+
+---
+## 🧠 Professional Background / Skills
+
+**Languages**: Python, SQL, C, HTML, CSS, JS
+**Databases**: MySQL, Microsoft SQL Server, MongoDB, PostgreSQL, NoSQL.
+**Tools & Libraries**: Power BI, Tableau, Spotfire, Excel, Power Pivot, Power Query, NumPy, Pandas, Matplotlib
+**Data Engineering**: ETL pipeline development, Data Warehousing, Cloud Data Management.
+**Cloud Services**: Snowflake, Microsoft Azure, AWS.
+**Machine Learning**: Predictive modeling, data analysis, algorithm development.
+
+---
+
+## 🛠️ Project Roles / Responsibilities
+
+Contributing to multiple AI-driven projects under **Humanitarians AI × Stellis Labs**:
+
+### **Adam - The Quiz Maker & Eva - The Gamified Companion**
+- Developed RAG-powered educational chatbots using LangFlow and ChromaDB for intelligent quiz generation and personalized learning experiences.
+- Implemented gamification features including badges, levels, and feedback systems to enhance user engagement and learning retention.
+- Designed complex decision logic using LangFlow workflows with custom decider nodes for dynamic conversation flow management.
+- Created comprehensive documentation and demo videos, showcasing projects on LinkedIn for professional visibility.
+
+### **Simulation Engine**
+- Architected FastAPI-based backend infrastructure for agent-based simulation platform with scalable database integration.
+- Implemented comprehensive logging system for real-time monitoring and debugging of simulation processes.
+- Developed sample simulation agents and established GitHub-based project management workflow with organized ticketing system.
+- Delivered successful project demonstrations showcasing agent interactions and system capabilities.
+
+### **Deep Research Engine**
+- Built end-to-end research automation system achieving 80% reduction in literature review time through intelligent query expansion and multi-source retrieval.
+- Engineered semantic query expansion using transformer models (SentenceTransformers, GROQ) to convert broad queries into domain-specific academic searches.
+- Developed cross-platform retrieval architecture with unified adapters for Arxiv, PubMed, and Google Scholar APIs via Model Context Protocol.
+- Implemented hybrid relevance scoring pipeline combining semantic similarity, authority indicators, and recency for optimal paper ranking.
+- Created metadata-driven caching system using DuckDB and ChromaDB, ensuring 100% source traceability and eliminating redundant API calls.
+- Built Gradio UI interface enabling non-technical users to leverage advanced research capabilities through intuitive web interface.
+- Stress-tested system with 100+ academic sources, maintaining sub-5 minute processing time for complex multi-query research tasks.
+---
+
+## 📅 Co-op Timeline
+
+- **Start Date**: January 6, 2025  
+- **End Date**: May 31, 2025
